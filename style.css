@@ -48,7 +48,7 @@ h1,h2,h3,h4,p{
 }
 .form .er{
     margin-right: 20px;
-    width: 45%;
+    width: 55%;
 }
 .container .form input{
     height: 35px;
@@ -56,7 +56,7 @@ h1,h2,h3,h4,p{
     border: 1px solid hsl(223, 100%, 88%);
     border-radius: 25.5px;
     outline: transparent;
-    padding-left: 2%;
+    padding-left: 3%;
 }
 .container .form input:focus{
     border: 1px solid #f97;
